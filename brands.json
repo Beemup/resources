@@ -1,0 +1,32 @@
+{
+   "adasis.com": {
+      "message": "hello from adasis.com",
+      "matchmaker_url": "https://www.nytimes.com/games/wordle/index.html",
+      "whitelisted_domain": "https://nytimes.com/*"
+   },
+   "Rohan Originals'": {
+      "message": "hello from Rohan Originals'",
+      "matchmaker_url": "https://krunker.io/",
+      "whitelisted_domain": "https://krunker.io:*"
+   },
+   "localhost": {
+      "message": "hello from localhost",
+      "matchmaker_url": "https://preview.yom.community/",
+      "whitelisted_domain": "https://localhost:*"
+   },
+   "bartuortal.com": {      
+      "message": "hello from bartuortal.com",
+      "matchmaker_url": "http://localhost/?solanaPublicKey=1234g23tq345",
+      "whitelisted_domain": "http://bartuortal.com:*"
+   },
+   "YOM Marketplace": {
+      "message": "hello from YOM Marketplace",
+      "matchmaker_url": "https://preview.yom.community/",
+      "whitelisted_domain": "https://white-plant-02a581b03.azurestaticapps.net/"
+   },
+   "backup": {
+      "message": "hello from backup",
+      "matchmaker_url": "http://20.223.218.232/",
+      "whitelisted_domain": "https://localhost:*"
+   }
+}
